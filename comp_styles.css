@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Secular+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+h1 {
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+  font-size: 50px;
+  color: #5444c1;
+}
+
+.introduction {
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+  font-size: 30px;
+  text-align: left;
+  width: 30em;
+  margin-top: -14em;
+  margin-left: 3em;
+  color: #68b1ce;
+}
+
+.image4 {
+  width: 700px;
+  height: 500px;
+  margin-left: 70em;
+  margin-right: -2em;
+  margin-top: 5em;
+}
+
+.second_p {
+  font-family: "Oswald", sans-serif;
+  width: 25em;
+  text-align: left;
+  font-size: 30px;
+  margin-left: 35em;
+  margin-top: -12em;
+  color: #68b1ce;
+}
+
+.last {
+  font-family: "Oswald", sans-serif;
+  font-size: 30px;
+  margin-top: 2em;
+  margin-bottom: 0em;
+  margin-left: 2em;
+  margin-right: 2em;
+  text-align: left;
+  color: #68b1ce;
+}
+
+.image5 {
+  width: 700px;
+  height: 500px;
+  margin-top: 10em;
+  margin-left: 5em;
+}
+
+.image6 {
+  width: 700px;
+  height: 450px;
+  margin-left: 5em;
+  margin-top: -12em;
+}
+
+.image7 {
+  margin-left: 15em;
+  margin-right: 0em;
+  margin-top: 5em;
+}
+
+.image17 {
+  width: 640px;
+  height: 512px;
+  margin-left: 5%;
+}
+
+body {
+  background-color: #001844;
+}
+
+.back_btn {
+  margin-left: 3em;
+  margin-top: 3em;
+  font-size: 20px;
+  background-color: transparent;
+  color: #68b1ce;
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: #1d33bc;
+  border-style: solid;
+  opacity: 0.5;
+  position: fixed;
+  top: 0;
+}
+
+.back_btn:hover {
+  opacity: 1;
+}

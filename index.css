@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+NP+Hmong:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+NP+Hmong:wght@500&family=Roboto:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+NP+Hmong:wght@500&family=Roboto:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Secular+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+h1 {
+  font-family: "Oswald", sans-serif;
+  color: #5444c1;
+  text-align: center;
+  font-size: 50px;
+}
+
+body {
+  background-color: #001844;
+}
+
+p {
+  color: #68b1ce;
+  font-family: "Oswald", sans-serif;
+  font-size: 25px;
+  margin-left: 3em;
+  margin-right: 3em;
+  text-align: center;
+  line-height: 40px;
+  font-weight: 500;
+}
+
+.card1 {
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+  margin-top: 10em;
+  margin-left: 5em;
+  padding-top: 0.5em;
+  width: 33em;
+  border-style: none;
+  height: 693px;
+  border-width: 5px;
+  background-color: #14232f;
+  box-shadow: -1px 0 10px #000;
+  opacity: 0.5;
+  color: #5444c1;
+  border-radius: 20px;
+}
+
+.card1:hover {
+  opacity: 1;
+}
+
+.background1 {
+  background-image: url(1.jpg);
+  width: 100%;
+  height: 450px;
+  background-repeat: no-repeat;
+}
+
+.card2 {
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+  margin-top: -44.2em;
+  margin-left: 42.5em;
+  padding-top: 0.5em;
+  width: 33em;
+  border-style: none;
+  height: 697.5px;
+  border-width: 5px;
+  background-color: #14232f;
+  box-shadow: -1px 0 10px #000;
+  opacity: 0.5;
+  color: #5444c1;
+  border-radius: 20px;
+}
+
+.background2 {
+  background-image: url(2.jpg);
+  width: 100%;
+  height: 450px;
+  background-repeat: no-repeat;
+}
+
+.card2:hover {
+  opacity: 1;
+}
+
+.card3 {
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+  margin-top: -44.2em;
+  margin-left: 80.5em;
+  padding-top: 0.5em;
+  width: 33em;
+  border-style: none;
+  height: 697.5px;
+  border-width: 5px;
+  background-color: #14232f;
+  box-shadow: -1px 0 10px #000;
+  opacity: 0.5;
+  color: #5444c1;
+  border-radius: 20px;
+}
+
+.background3 {
+  background-image: url(3.jpg);
+  width: 100%;
+  height: 450px;
+  background-repeat: no-repeat;
+}
+
+.card3:hover {
+  opacity: 1;
+}
+
+.buttn1 {
+  background-color: #e94560;
+  width: 8em;
+  height: 3em;
+  border-style: none;
+  border-width: 2px;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  border-radius: 19px;
+}
+
+.buttn2 {
+  background-color: #e94560;
+  width: 8em;
+  height: 3em;
+  border-style: none;
+  border-width: 2px;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  border-radius: 19px;
+}
+
+.buttn3 {
+  background-color: #e94560;
+  width: 8em;
+  height: 3em;
+  border-style: none;
+  border-width: 2px;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  border-radius: 19px;
+  color: #000;
+}
+
+.second_p {
+  margin-bottom: 28px;
+}
+
+.card3_p {
+  margin-bottom: 70px;
+}

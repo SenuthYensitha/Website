@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Secular+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+h1 {
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: 50px;
+  color: #5444c1;
+}
+
+body {
+  background-color: #001844;
+}
+
+.intro {
+  text-align: right;
+  width: 51%;
+  font-size: 30px;
+  font-family: "Oswald", sans-serif;
+  margin-left: 2em;
+  margin-top: 5em;
+  color: #68b1ce;
+}
+
+.img_14 {
+  margin-left: 60%;
+  margin-top: -22em;
+}
+
+.second_p {
+  color: #68b1ce;
+  font-family: "Oswald", sans-serif;
+  font-size: 25px;
+  margin: 2em;
+  text-align: center;
+}
+
+.img_18 {
+  width: 600px;
+}
+
+.img_19 {
+  width: 600px;
+}
+
+.img_20 {
+  margin-left: 0%;
+  width: 600px;
+  margin-top: -40em;
+}
+
+.image_set1 {
+  margin: 2em;
+}
+
+.video {
+  margin-left: 20em;
+}
+
+.back_btn {
+  margin-left: 3em;
+  margin-top: 3em;
+  font-size: 20px;
+  background-color: transparent;
+  color: #68b1ce;
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: #1d33bc;
+  border-style: solid;
+  opacity: 0.5;
+  position: fixed;
+  top: 0;
+}
+
+.back_btn:hover {
+  opacity: 1;
+}
